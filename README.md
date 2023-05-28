@@ -3,6 +3,8 @@
 
 I'm a Frontend Developer by profession, with a keen interest in Backend Development. My toolbox includes React.js, Sass, JavaScript, and more. I'm always curious about learning and mastering new technologies that can help me build better and more efficient projects.
 
+![Shivesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=realshivesh&show_icons=true)
+
 ## 🛠️ My Skills
 
 - Frontend Development: React.js, JavaScript, HTML, CSS, Sass
